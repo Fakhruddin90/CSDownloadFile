@@ -1,0 +1,12 @@
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\bin\Debug\CSDownloadFile.exe.config
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\bin\Debug\CSDownloadFile.exe
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\bin\Debug\CSDownloadFile.pdb
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\bin\Debug\AltoHttp.dll
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\obj\Debug\CSDownloadFile.csprojAssemblyReference.cache
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\obj\Debug\CSDownloadFile.Form1.resources
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\obj\Debug\CSDownloadFile.Properties.Resources.resources
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\obj\Debug\CSDownloadFile.csproj.GenerateResource.cache
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\obj\Debug\CSDownloadFile.csproj.CoreCompileInputs.cache
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\obj\Debug\CSDownloadFile.csproj.CopyComplete
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\obj\Debug\CSDownloadFile.exe
+G:\BACKUP\Programming\Repositories\1_C#\CSDownloadFile\CSDownloadFile\obj\Debug\CSDownloadFile.pdb
